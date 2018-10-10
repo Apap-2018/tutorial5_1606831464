@@ -1,0 +1,5 @@
+Perbedaan dari th:replace dan th:include adalah
+
+th:replace - untuk menggantukan tag yang dengan yang ada di fragment. artinya tag yang lama akan digantikan denga tag yang ada di fragment
+
+th:include - untuk memasukkan fragment kedalam host tanpa tag si fragment tersebut
